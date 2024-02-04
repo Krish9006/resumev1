@@ -1,3 +1,12 @@
 body{
     background-color: rgb(126, 234, 68);
+    p{
+        color:brown
+    }
+}
+div{
+    height: 100;
+    width: 100;
+    background color: red;
+
 }
