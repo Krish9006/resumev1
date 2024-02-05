@@ -1,0 +1,14 @@
+.image{
+    /* filter:drop-shadow(10px 10px 10px #ffffff) ; */
+    box-shadow: 10px 10px 20px  #07111b;
+    border: #070423; 
+    border-radius: 50%;
+    background-color: rgb(8, 29, 47); 
+    padding: 4px;
+}
+*{
+
+    background-color: #132637;
+    color: #ffffff;
+
+}
